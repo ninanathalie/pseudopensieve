@@ -15,7 +15,7 @@
     "@blocknote/react": "^0.14.0",
     "@kinde-oss/kinde-auth-nextjs": "^2.4.6",
     "@prisma/client": "^6.7.0",
-    "@radix-ui/react-alert-dialog": "^1.1.2",
+    "@radix-ui/react-alert-dialog": "^1.1.13",
     "@radix-ui/react-label": "^2.1.2",
     "@tabler/icons-react": "^3.31.0",
     "@uploadthing/react": "^6.6.0",
